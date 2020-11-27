@@ -91,3 +91,4 @@ If you wish to make a change, [open a Pull Request](https://github.com/mikaoj/BS
 ## License
 
 BSImagePicker is available under the MIT license. See the LICENSE file for more info.
+
